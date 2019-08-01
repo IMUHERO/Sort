@@ -7,7 +7,7 @@
 * 分析讲解：[传送门](https://blog.csdn.net/qq_37768971/article/details/88777149)
 
 ## [3.选择排序](https://github.com/IMUHERO/Sort/blob/master/01-O(n%5E2)-Sort/SelectionSort/SelectionSort.java)
-分析讲解：[传送门](https://blog.csdn.net/qq_37768971/article/details/88776996)
+* 分析讲解：[传送门](https://blog.csdn.net/qq_37768971/article/details/88776996)
 ## [4.希尔排序](https://github.com/IMUHERO/Sort/tree/master/01-O(n%5E2)-Sort/ShellSort)
 * 分析讲解：[传送门](https://blog.csdn.net/qq_37768971/article/details/88777210)
 
